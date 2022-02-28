@@ -1,5 +1,4 @@
-**SAND BOX REPO**
+**ZERO_DAY SAND BOX**
 At last!!
-This repo frees you from having to be dependent on the ALX Sandbox.
-This repo enables you to work comfortably on ALX projects in your own controlled environment.
-Bring the game to your own tuff!!
+This repo sets  you free from having to do your alx projects in an environment out of control.
+Bring the game to your home tuff where you RULE!
