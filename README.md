@@ -1,4 +1,4 @@
-**ZERO_DAY SAND BOX**
-At last!!
-This repo sets  you free from having to do your alx projects in an environment out of control.
-Bring the game to your home tuff where you RULE!
+**ALX SAND BOX **
+Yes, freedom at last!!
+This repo is to assist in coding in an environment you are in control over.
+It is bringing the game to your home tuff!!
